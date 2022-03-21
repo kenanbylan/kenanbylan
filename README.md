@@ -24,7 +24,7 @@ Languages & Tools that I know:<br>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhanese&show_icons=true&locale=en&layout=compact" alt="kenanbylan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenanbylan&show_icons=true&locale=en&layout=compact" alt="kenanbylan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanbylan&show_icons=true&locale=en" alt="kenanbylan" width="410" /></p>
 
