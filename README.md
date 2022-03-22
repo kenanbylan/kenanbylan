@@ -11,7 +11,7 @@ Computer Engineering Student</h3>
 </p>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhanese&label=Profile Views&color=yellow&style=flat" alt="emirhanese" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbylan&label=Profile Views&color=yellow&style=flat" alt="kenanbylan" /> </p>
 ✔ I’m currently learning "React-Native" with JavaScript<br>
 ✔ ..<br><br>
 <p align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px> </p>
