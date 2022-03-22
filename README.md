@@ -13,7 +13,7 @@ Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbylan&label=Profile Views&color=yellow&style=flat" alt="kenanbylan" /> </p>
 ✔ I’m currently learning "React-Native" with JavaScript<br>
-✔ ..<br><br>
+✔ I'm developing OOP with Java.<br><br>
 <p align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px> </p>
 Languages & Tools that I know:<br>
 <code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code><code> 
