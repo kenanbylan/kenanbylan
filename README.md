@@ -20,5 +20,7 @@ Languages & Tools that I know:<br>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
 <code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </code>
 <code> <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png"> </code>
+<code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </code>
+
   </code>
   <hr>
