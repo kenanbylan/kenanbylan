@@ -1,59 +1,33 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbylan&label=Profile Views&color=yellow&style=flat" alt="kenanbylan" /> </p>
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
+<br />
+
 ### Hi there, I'm Kenan. :blush:
 
-## Computer Engineer Student | Intern Developer
-<font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
+## Computer Science Student | Intern Developer
+<font color="blue">You can sleep when you're dead `< code />` </font>
 
 ### Reach out to me
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
+<a href="https://www.linkedin.com/in/kenan-b-756ba8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kenan Baylan" height="30" width="40" /></a>
+<a href = "mailto: kenan.baylan4654@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <br />
-<br />
+
+### About 
+- Marmara University - Computer Engineering
+- I’m currently learning ReactNative and JavaScript
+- With React Native, I both develop and learn mobile applications.
+- I will learn React and Web3.
 
 ### Tech I use
 
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25" />
 
 <br />
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Contentrain ile Portfolyo Uygulaması | Git-Based Headless CMS](https://www.youtube.com/watch?v=16h_kXiwGcA)
-- [İngilizce Kelime Öğrenelim | Finding Purpose Novel  &lpar;1&rpar;](https://www.youtube.com/watch?v=O3kjBgCc7Tc)
-- [Konuşarak Öğren ile İngilizce Öğrenmek  | İlk Deneyim](https://www.youtube.com/watch?v=-zFHjK0md6k)
-- [Muhteşem Dokümantasyonlar Hazırlayın | Gitbook](https://www.youtube.com/watch?v=Ez6kkDmKFIw)
-- [My First Cambly Experience | Fake It Till You Make It!](https://www.youtube.com/watch?v=5L9SCOwxIA0)
-<!-- YOUTUBE:END -->
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-<!-- BLOG-POST-LIST:END -->
-
 <br />
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
-</details>
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
-</details>
-
-[youtube]: https://www.youtube.com/c/codingwithdidem
-[twitter]: https://twitter.com/DidemKkkaraasl1
-[linkedin]: [https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/](https://www.linkedin.com/in/kenan-b-756ba8206)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenanbylan&theme=dark)](https://git.io/streak-stats)
