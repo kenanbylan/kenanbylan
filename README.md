@@ -22,6 +22,5 @@ Languages & Tools that I know:<br>
 <code> <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png"> </code>
   </code>
   <hr>
-  <p align="center">
 
 <hr>
