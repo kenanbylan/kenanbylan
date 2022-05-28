@@ -5,8 +5,7 @@
 
 ### Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][https://www.linkedin.com/in/kenan-b-756ba8206]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
 <br />
@@ -57,4 +56,4 @@
 
 [youtube]: https://www.youtube.com/c/codingwithdidem
 [twitter]: https://twitter.com/DidemKkkaraasl1
-[linkedin]: https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/
+[linkedin]: [https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/](https://www.linkedin.com/in/kenan-b-756ba8206)
