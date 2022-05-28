@@ -16,11 +16,10 @@ Computer Science Student</h3>
 ✔ I'm developing OOP with Java.<br><br>
 <p align="left"> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px> </p>
 Languages & Tools that I know:<br>
-<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code><code> 
+<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code> 
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
 <code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </code>
 <code> <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png"> </code>
-<code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </code>
-
-  </code>
+ </code>
   <hr>
