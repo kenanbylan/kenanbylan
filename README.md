@@ -13,7 +13,7 @@
 <br />
 
 ### About 
-- Marmara University - Computer Engineering
+- I am a Marmara University Computer Engineering Student.
 - I’m currently learning ReactNative and JavaScript
 - With React Native, I both develop and learn mobile applications.
 - I will learn React and Web3.
