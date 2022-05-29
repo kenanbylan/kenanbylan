@@ -16,7 +16,7 @@
 - I am a Marmara University Computer Engineering Student.
 - I’m currently learning ReactNative and JavaScript
 - With React Native, I both develop and learn mobile applications.
-- I will learn React and Web3.
+- I will learn React , Web3 and Docker.
 
 ### Tech I use
 
