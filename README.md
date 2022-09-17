@@ -13,7 +13,7 @@
 
 ### About 
 - I am a Marmara University Computer Engineering Student.
-- I’m currently learning Node js and React js. 
+- I’m currently learning Node js and Kotlin. 
 - With React Native, I both develop and learn mobile applications.
 
 ### Tech I use
