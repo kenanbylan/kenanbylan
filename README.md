@@ -13,7 +13,7 @@
 
 ### About 
 - I am a Marmara University Computer Engineering Student.
-- I love mobile application development and I'm learning Swift to become an ios developer. On the backend, I can develop basic projects with Node Js (school projects and simple crud operations.)  
+- I love mobile application development and I'm learning Swift to become an ios developer. On the backend I can develop basic projects with Node Js (school projects and simple crud operations.)  
 - With React Native, I both develop and learn mobile applications.
 
 ### Tech I use
