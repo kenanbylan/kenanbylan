@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanbylan&label=Profile Views&color=yellow&style=flat" alt="kenanbylan" /> </p>
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
-<br />
+
 
 ### Hi there, I'm Kenan. :blush:
 
@@ -36,6 +36,12 @@
 <br />
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenanbylan&theme=dark)](https://git.io/streak-stats) <a href="https://github.com/kenanbylan" align="left" width="400" height="400"  ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<table><tr><td  width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=kenanbylan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
+<td  width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table> 
 
 
