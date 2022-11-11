@@ -13,22 +13,31 @@
 
 ### About 
 - I am a Marmara University Computer Engineering Student.
-- I’m currently learning Node js and Kotlin. 
+- I’m currently learning Node js and Swift. 
 - With React Native, I both develop and learn mobile applications.
 
 ### Tech I use
 
-<img align="left"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" align="left"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  width="40" height="40" align="left" />
+<img align="left"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"  />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"   width="40" height="40" align="left"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"  width="40" height="40" align="left" />
+
 
 <br />
 <br />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenanbylan&theme=dark)](https://git.io/streak-stats) <a href="https://github.com/kenanbylan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenanbylan&theme=dark)](https://git.io/streak-stats) <a href="https://github.com/kenanbylan" align="left" width="400" height="400"  ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
