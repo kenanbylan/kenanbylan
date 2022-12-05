@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Kenan. :blush:
 
-## Computer Science Student | Intern Developer
+## Computer Science Student | Developer
 
 ### Reach out to me
 <a href="https://www.linkedin.com/in/kenan-b-756ba8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kenan Baylan" height="30" width="40" /></a>
