@@ -44,12 +44,18 @@
 <br />
 <br />
 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 50%" src="https://github-profile-trophy.vercel.app/?username=kenanbylan" alt="kenanbylan" /></a> 
 
-<table><tr><td  width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=kenanbylan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<table><tr>
+<td  width="50%" height="50%" >  
+<img src="https://github-readme-stats.vercel.app/api?username=kenanbylan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%"/>
 </td>
-<td  width="50%">
+  
+  
+<td width="50%" height="50%" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table> 
+</td>
+  
+</tr></table> 
 
 
