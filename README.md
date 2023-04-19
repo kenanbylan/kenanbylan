@@ -39,12 +39,14 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"  width="40" height="40" align="left" />
 
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 50%" src="https://github-profile-trophy.vercel.app/?username=kenanbylan" alt="kenanbylan" /></a> 
+ <img align="center" width="70%" height="50%" src="https://github-profile-trophy.vercel.app/?username=kenanbylan" alt="kenanbylan" />
+
+<br/>
 
 <table><tr>
 <td  width="50%" height="50%" >  
