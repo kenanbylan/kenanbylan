@@ -23,28 +23,21 @@
 ### Tech I use
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"  />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"  width="40" height="40"  />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="40" height="40" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" width="40" height="40" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"  width="40" height="40" align="left" />
 
 <br/>
 <br/>
 <br/>
 <br/>
 
- <img align="center" width="70%" height="50%" src="https://github-profile-trophy.vercel.app/?username=kenanbylan" alt="kenanbylan" />
+ <img align="center" width="70%" height="70%" src="https://github-profile-trophy.vercel.app/?username=kenanbylan" alt="kenanbylan" />
 
 <br/>
 
