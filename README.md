@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **iOS Swift, Nodejs and Docker**
 - 👯 I’m looking to collaborate on **Finance, software and enterprise.**
 - 🔭 I love mobile application development and I'm learning **Swift to become an ios developer**.
-- 👨‍💻 I am also learning .net core api to learn backend technologies.
+- 👨‍💻 I am also learning Nodejs to learn backend technologies.
 - 💬 With **React Native**, I both develop and learn mobile applications.
 - 📫 Ask me about **React native, Swift**
 
