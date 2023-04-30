@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/kenan-b-756ba8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kenan Baylan" height="30" width="40" /></a>
 <a href = "mailto: kenan.baylan4654@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href = "https://stackoverflow.com/users/14736137/kenan-baylan?tab=profile"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" height="30" width="40" /></a>
-<a href = "  https://medium.com/@kenan.baylan4654"><img align="center" src="https://simpleicons.org/icons/medium.svg" height="30" width="40" /></a> 
+<a href ="https://medium.com/@kenan.baylan4654"><img align="center" src="https://simpleicons.org/icons/medium.svg" height="30" width="40" /></a> 
 </p>
 
 ### About 
