@@ -35,11 +35,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
- <img align="center" width="70%" height="70%" src="https://github-profile-trophy.vercel.app/?username=kenanbylan" alt="kenanbylan" />
-
-<br/>
 
 <table><tr>
 <td  width="50%" height="50%" >  
@@ -47,9 +43,6 @@
 </td>
   
   
-<td width="50%" height="50%" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td>
   
 </tr></table> 
 
