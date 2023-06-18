@@ -11,12 +11,7 @@
 <a href ="https://medium.com/@kenan.baylan4654"><img align="center" src="https://simpleicons.org/icons/medium.svg" height="30" width="40" /></a> 
 
 ## About Me:
-<br>🌱 I'm currently focusing on advancing my career in iOS Swift development and actively learning new technologies. I have a strong passion for mobile application development and I'm dedicated to becoming an iOS developer proficient in Swift.<br>
-<br>🚀 Besides iOS development, I'm also expanding my knowledge in backend technologies and learning Node.js. I'm capable of developing server-ready APIs to support the overall architecture of applications.<br>
-<br>💬 React Native is another area of expertise for me. I enjoy both developing and learning about mobile applications using React Native.<br>
-<br>⚙️ Additionally, I have a growing interest in Java Spring framework. During my spare time, I'm exploring and learning Java Spring to expand my skill set.<br>
-
-
+💬 I am focusing on advancing my career in iOS Swift development and actively learning new technologies. I have a strong passion for mobile application development and I am determined to become a skilled iOS developer in Swift. Additionally, I am expanding my knowledge in backend technologies and learning Node.js. I can develop server-ready APIs to support the overall architecture of applications. React Native is another area of expertise for me, and I enjoy both developing and learning about mobile applications using React Native. Moreover, I have a growing interest in the Java Spring framework. During my spare time, I explore and learn Java Spring to expand my skill set.
 
 # 💻 Tech Stack:
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) 
