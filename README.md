@@ -30,17 +30,5 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 
-# 📊 GitHub Stats:
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kenanbylan&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kenanbylan&theme=prussian&hide_border=false" alt="GitHub Streak" />
-</div>
-
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanbylan&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img align="left" src="https://github-contributor-stats.vercel.app/api?username=kenanbylan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
 
 
