@@ -10,7 +10,6 @@
 <a href = "https://stackoverflow.com/users/14736137/kenan-baylan?tab=profile"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" height="30" width="40" /></a>
 <a href ="https://medium.com/@kenan.baylan4654"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" height="30" width="40" /></a> 
 
-<br>
 
 ## 💻 Tech Stack:
 
