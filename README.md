@@ -1,6 +1,6 @@
 ### Hi there, I'm Kenan. :blush:
 
-### <p>💬 I am focusing on advancing my career in iOS Swift development and actively learning new technologies. I have a strong passion for mobile application development and I am determined to become a proficient iOS developer in Swift. I am also expanding my knowledge in backend technologies and learning Node.js. I am capable of developing server-ready APIs to support the overall architecture of applications.</p>
+### <p>💬 I am focusing on advancing my career in iOS Swift development and actively learning new technologies. I have a strong passion for mobile application development and I am determined to become a proficient iOS developer in Swift. I am also expanding my knowledge in backend technologies and learning Java Spring Boot. I am capable of developing server-ready APIs to support the overall architecture of applications.</p>
 
 
 ### Reach out to me
