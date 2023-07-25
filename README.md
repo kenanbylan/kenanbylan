@@ -1,6 +1,4 @@
-<p>I am currently working on iOS development and also capable of working with backend technologies. My goal is to become a full-stack developer, independent of platforms and programming languages. My current technology stack includes iOS Development with Swift, React Native, Node.js, and Java Spring. </p>
-
-
+<p>I am currently working on iOS development and also capable of working with backend technologies. My goal is to become a full-stack developer, independent of platforms and programming languages. My current technology stack includes iOS - Swift Development, React Native, Node.js, and Java Spring. </p>
 
 ### Reach out to me
 
